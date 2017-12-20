@@ -31,6 +31,7 @@
 
 
 Так же существует учрежденческо-производственная АТС (на одно учреждение один общий номер, но несколько дополнительных подномеров)
+
 Пример:
 
 ![alt text](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/1_4.png)
