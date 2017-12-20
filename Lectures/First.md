@@ -76,3 +76,41 @@
 
 
 ## Телевизионные сети
+![alt text](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/1_8.png)
+
+Пример стандартов:
+1. FM (по рус. ОВЧЧМ)
+2. DRM (digital radio model)
+3. HD radio
+4. CDR (china digital radio)
+5. РАВИС (российско аудио-визуальная информационная система)
+6. ISDB 
+7. AMSC
+
+## WiFi сети
+
+![alt text](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/1_9.png)
+
+## Спутниковая связь
+
+##### Определения:
+Сп. А - спутниковый аппарат(см. картинку)
+ЗС - земная станция
+
+![alt text](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/1_10.png)
+
+Операторы спутниковой связи:
+[Inmarsat](https://ru.wikipedia.org/wiki/Inmarsat)
+[Iridium](https://ru.wikipedia.org/wiki/Иридиум)
+
+Стандарты:
+[DVB-S2](https://ru.wikipedia.org/wiki/DVB-S2)
+
+Различают следующие виды орбит спутников связи:
+LEO - низкая орбита (< 400км)
+MEO - средняя орбита (400 - 3 000 км)
+GEO - геостационарная орбитка (до 40 000 км)
+
+
+
+
