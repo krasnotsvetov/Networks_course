@@ -99,11 +99,11 @@
 
 ![alt text](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/1_10.png)
 
-Операторы спутниковой связи:
-[Inmarsat](https://ru.wikipedia.org/wiki/Inmarsat)
-[Iridium](https://ru.wikipedia.org/wiki/Иридиум)
+##### Операторы спутниковой связи:
+1. [Inmarsat](https://ru.wikipedia.org/wiki/Inmarsat)
+2. [Iridium](https://ru.wikipedia.org/wiki/Иридиум)
 
-Стандарты:
+##### Стандарты:
 [DVB-S2](https://ru.wikipedia.org/wiki/DVB-S2)
 
 Различают следующие виды орбит спутников связи:
