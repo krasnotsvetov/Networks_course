@@ -22,7 +22,7 @@ L = \alpha l
 Изменение в 2 Вт соответствует увелечению на 3 дб.
 
 ### Потери в беспроводной связи
-![alt text](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/5_2.png)
+![alt text](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/6_2.png)
 
 Или Р_прм = Р_прд(С_прд С_прм \mu_прд \mu_прм \lambda^2 / 4 \pi R^2)
 
