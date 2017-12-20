@@ -15,13 +15,27 @@
 
 Пример:
 
-1. Пример связи АТС и АТ 
+1. Пример связи АТС и АТ:
 
 ![alt text](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/1_1.png)
 
-2. Пример связи АТС и нескольких АТ
+2. Пример связи АТС и нескольких АТ:
 
 ![alt text](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/1_2.png)
 
 В больших городах может использоваться несколько АТС, так в Москве их число достигает 20, а в Петербурге 10.
 
+3. Пример связи АТС различных уровней:
+
+![alt text](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/1_3.png)
+
+
+Так же существует учрежденческо-производственная АТС (на одно учреждение один общий номер, но несколько дополнительных подномеров)
+Пример:
+![alt text](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/1_4.png)
+
+Используемые протоколы:
+1. Сигнализация
+2. Передача сообщений(данных)
+
+Из них наиболее используемые: [ОКС №7](https://ru.wikipedia.org/wiki/ОКС-7) и [TDM)(https://ru.wikipedia.org/wiki/Мультиплексирование_с_разделением_по_времени)
