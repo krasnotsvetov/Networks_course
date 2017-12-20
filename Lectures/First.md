@@ -15,8 +15,13 @@
 
 Пример:
 
-![alt text](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/1_1.png "Пример связи АТС и АТ")
-![alt text](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/1_1.png "Пример связи АТС и нескольких АТ")
+1. Пример связи АТС и АТ 
+
+![alt text](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/1_1.png)
+
+2. Пример связи АТС и нескольких АТ
+
+![alt text](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/1_2.png)
 
 В больших городах может использоваться несколько АТС, так в Москве их число достигает 20, а в Петербурге 10.
 
