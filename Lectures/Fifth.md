@@ -1,8 +1,8 @@
 # Лекция 5
 ## Коммутация
-### Обозначение: 
+### Обозначение
 ![коммутация](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/5_1.png)
-### Виды схем:
+### Виды схем
 Простая схема коммутации:
 ![1-я схема](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/5_2.png)
 
@@ -18,3 +18,23 @@
 
 Семейство STP, повышение надёжности:
 ![повышение надёжности](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/5_6.png)
+
+### Классификация коммутаторов
+#### По структуре
+1. Модульные
+2. Немодульные
+#### По типу подключения
+##### Обозначения
+- Медные линии
+- Оптические линии
+##### Виды
+- С медными портами
+- С оптическими портами
+- комбинированые
+- SFP сменные модуль порта
+#### По параметрам источника электропитания
+#### По области применения
+- Small office home office (SOHO) -- небольшие пропускные способности
+- Small & medium business (SMB) 
+- Enterprise -- корпоративный (операторский)
+
