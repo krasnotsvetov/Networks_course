@@ -14,9 +14,11 @@
 ![стекирование](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/5_4.png)
 
 Повышение скоростей на медленных портах:
+
 ![](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/5_5.png)
 
 Семейство STP, повышение надёжности:
+
 ![повышение надёжности](https://raw.githubusercontent.com/krasnotsvetov/Networks_course/master/Images/5_6.png)
 
 ### Классификация коммутаторов
